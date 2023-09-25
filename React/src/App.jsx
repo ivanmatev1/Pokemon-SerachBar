@@ -7,7 +7,6 @@ export default function App() {
     <div className="App">
       <div className="search-bar-container">
         <SearchBar/>
-        <div>SearchResult</div>
       </div>
     </div>
   )
